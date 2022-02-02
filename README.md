@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rohan5859
-- 👀 I’m interested in gaming
 - 🌱 I’m currently learning android application development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by my email rohankumarchaudhry5859@gmail.com
